@@ -1,0 +1,47 @@
+body {
+    background-image: url(../img/woodbackground.jpg);
+    background-repeat: round;
+    color: #F6F6D5;
+}
+
+#cabecalho {
+    border: 5px solid #F6F6D5;
+    border-radius: 15px;
+    background-color: #A5520B;
+    opacity: 0.95;
+    box-shadow: 5px 5px #00000055;
+    padding: 5px;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+}
+
+#conteudo {
+    border: 5px solid #F6F6D5;
+    border-radius: 15px;
+    background-color: #A5520B;
+    opacity: 0.95;
+    box-shadow: 5px 5px #00000055;
+    padding: 8px;
+    margin: auto;
+    width: 1200px;
+    text-align: center;
+}
+#conteudoTitulo {
+    border: 5px solid #F6F6D5;
+    border-radius: 15px;
+    background-color: #7A3B06;
+    width: fit-content;
+    padding: 5px;
+    margin: auto;
+}
+a:link,
+a:visited {
+    color: #F6F6D5;
+    text-decoration: none;
+}
+a:hover,
+a:active {
+    color: #D6D697;
+    text-decoration: none;
+}
